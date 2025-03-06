@@ -32,7 +32,7 @@ humanfriendly==10.0
 idna==3.10
 imageio==2.36.0
 imageio-ffmpeg==0.5.1
-Jinja2==3.1.4
+Jinja2==3.1.6
 jiter==0.7.0
 llvmlite==0.43.0
 MarkupSafe==3.0.2
